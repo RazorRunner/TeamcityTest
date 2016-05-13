@@ -1,0 +1,7 @@
+D:\Sandbox\TeamcityTest\TeamcityTest\bin\Debug\TeamcityTest.exe.config
+D:\Sandbox3\TeamcityTest\TeamcityTest\bin\Debug\TeamcityTest.exe.config
+D:\Sandbox3\TeamcityTest\TeamcityTest\bin\Debug\TeamcityTest.exe
+D:\Sandbox3\TeamcityTest\TeamcityTest\bin\Debug\TeamcityTest.pdb
+D:\Sandbox3\TeamcityTest\TeamcityTest\obj\Debug\TeamcityTest.csprojResolveAssemblyReference.cache
+D:\Sandbox3\TeamcityTest\TeamcityTest\obj\Debug\TeamcityTest.exe
+D:\Sandbox3\TeamcityTest\TeamcityTest\obj\Debug\TeamcityTest.pdb
